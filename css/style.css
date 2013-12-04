@@ -1,0 +1,46 @@
+/* CSS Document */
+h1 {
+	text-align:left;
+	font-size:2em;
+	color: #009595;
+}
+
+body, h2, h3 {
+	font: 1.5em/2 sans-serif; 
+	text-align:left;
+	font:100%; /*16px*/
+}
+
+h2, h3 {
+	color: #009595;
+	}
+
+ul {
+	list-style-type:none;
+	padding:.825%; /*5px / 800px*/
+
+}
+
+/**body..........**/
+
+body	{
+		width: 70%; /*800px*/
+		margin: 0 auto;
+
+}
+
+/**container......**/
+#container {
+		background-color: #FFF;
+		padding: .825%;
+		margin: 0 auto;
+		border:#F97100 thick double;
+		border-width:30px;
+
+	}
+	
+/**links.........**/
+
+a:hover {color:#009595;
+
+}   /* mouse over link */	
