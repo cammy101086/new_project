@@ -1,14 +1,14 @@
 /* CSS Document */
 h1 {
 	text-align:left;
-	font-size:2em;
+	font:16px;
 	color: #009595;
 }
 
 body, h2, h3 {
-	font: 1.5em/2 sans-serif; 
+	font:sans-serif; 
 	text-align:left;
-	font:100%; /*16px*/
+	font:12px;
 }
 
 h2, h3 {
@@ -17,14 +17,13 @@ h2, h3 {
 
 ul {
 	list-style-type:none;
-	padding:.825%; /*5px / 800px*/
+	padding:5px;
 
 }
 
 /**body..........**/
 
 body	{
-		width: 70%; /*800px*/
 		margin: 0 auto;
 
 }
